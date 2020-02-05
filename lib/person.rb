@@ -1,9 +1,9 @@
-juan = Person.new 
-#initialize = @juan
+#initialize = juan
+juan = Person.new
 @name = juan
-end
+  end
 
- end
+end
  
 
 
