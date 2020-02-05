@@ -1,5 +1,5 @@
-def name
-  @name
+class person 
+  puts = @name
 #initialize = @name 
   @name = Peter
 end
