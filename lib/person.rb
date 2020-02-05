@@ -1,10 +1,6 @@
-class person = {Peter}
-  @Peter = Peter
-end
+juan = Person.new 
+juan = @juan
+ end
+ 
 
-
-  puts = @name
-#initialize = @name 
-  @name = Peter
-end
 
