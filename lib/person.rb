@@ -1,5 +1,8 @@
 juan = Person.new 
-juan = @juan
+#initialize = @juan
+@name = juan
+end
+
  end
  
 
