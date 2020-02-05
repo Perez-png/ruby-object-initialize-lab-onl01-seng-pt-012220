@@ -1,3 +1,10 @@
+def Person 
+  #initialize = @name
+  @name = juan
+  
+end
+
+
 def #initialize 
 end
 
