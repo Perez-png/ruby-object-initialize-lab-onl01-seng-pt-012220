@@ -1,4 +1,4 @@
 class Dog 
-  #initialize = @name 
+  def #initialize = @name 
   
   
