@@ -1,6 +1,7 @@
-#initialize = @name 
+def #initialize 
+end
 
-person.new = juan
+# initialize person.new = juan
 @juan = name 
 
   end
