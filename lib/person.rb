@@ -1,5 +1,5 @@
-#initialize = Peter 
-puts = Peter
+#initialize = name 
+  @name = Peter
 end
 
 
