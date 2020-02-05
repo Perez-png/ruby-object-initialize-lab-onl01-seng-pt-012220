@@ -1,8 +1,5 @@
-class = Person
-end
-
-def name = {Person}
-  @name = Person
+#initialize = Peter 
+puts = Peter
 end
 
 
